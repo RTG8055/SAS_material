@@ -13,19 +13,19 @@
 # Analyze a new dataset
 
 ## Step 1: Identify exploratory and response variables
-	- exploratory = X variables 
-	- response = Y variables(to be predicted)
+ - exploratory = X variables 
+ - response = Y variables(to be predicted)
 ## Step 2: Define the exploratory variables
-	- identify whether they are categorical or continuous
+ - identify whether they are categorical or continuous
 ## Step 3: Define the response variables
-	- identify whether they are categorical or continuous
+ - identify whether they are categorical or continuous
 ## Step 4: Form hypothess
-	- how does each response variable change with each exploratory variable
-	- null hypotheses H0: the exploratorry variable has no effect/change on the response variable
-	- alternative hypothese Ha: the exploratory variable has some effect on the response variable
-	- p-value is estimate of the probability that any effect of the exploratory variable on the response variable could have 	occured by chance, if H0 were true.
-		- that is it is the probabilty for the cahnge seen in the response variable due to exploratory variable be a coincidence
-		- the lower the p-value the higher the relation between the 2 higher probablity to reject the null hypotheses.
+ - how does each response variable change with each exploratory variable
+ - null hypotheses H0: the exploratorry variable has no effect/change on the response variable
+ - alternative hypothese Ha: the exploratory variable has some effect on the response variable
+ - p-value is estimate of the probability that any effect of the exploratory variable on the response variable could have  occured by chance, if H0 were true.
+  - that is it is the probabilty for the cahnge seen in the response variable due to exploratory variable be a coincidence
+  - the lower the p-value the higher the relation between the 2 higher probablity to reject the null hypotheses.
 
 
 # One way to do Exloratory Data Analysis
