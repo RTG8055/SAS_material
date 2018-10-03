@@ -1,12 +1,19 @@
+
+### https://en.wikiversity.org/wiki/Data_Analysis_using_the_SAS_Language/Examples
+
+- Anova - dependency of categorical variable on continuous variable
+- correlation - dependency of continuous variable on continuous variable
+- t- test - to check if the null hypothesiszed parameter is valid or is significant or not compared to the sample meean calculated.
+
 # Things to notice in scatter plots:
  - check for non linear relationships. these cannot be identified by the correlation coeffiecint
  - check for outliers in any variable that might be effecting the coefficient. 
   - if there is an outlier. Find out why it is there whether it is correct or not.
   - if its authentication cannot be validated then we do 2 analysis one with it and one without it to get to know the scenarios
 
-### for correlation coeffient to be significant p-value should be less than 0.05
+## For correlation coeffient to be significant p-value should be less than 0.05
 
-## generate correlation coeffiecints between variables to determine teh multicollienearity.
+## Generate correlation coeffiecints between variables to determine teh multicollienearity.
 
 
 
